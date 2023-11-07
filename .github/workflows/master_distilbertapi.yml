@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'DistilBertAPI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_599746A905C141B693AD392FB2CCCE83 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_671C0B55859E4815822743661453F71B }}
