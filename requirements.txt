@@ -10,9 +10,7 @@ pip
 pathlib
 panel
 attrs
-zlib
 wheel
-openssl
 cryptography
 pillow
 docutils
@@ -28,7 +26,6 @@ colorama
 ipywidgets
 ipython
 notebook
-yaml
 pyyaml
 anyio
 sniffio
