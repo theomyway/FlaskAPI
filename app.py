@@ -37,4 +37,5 @@ async def predict(data: TextData):
 
 
 if __name__ == '__main__':
-    app.run()
+    import uvicorn
+    uvicorn.run(app)
